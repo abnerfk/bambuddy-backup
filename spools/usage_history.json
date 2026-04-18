@@ -756,6 +756,42 @@
       "status": "completed",
       "cost": 8.52,
       "created_at": "2026-04-18 10:29:07"
+    },
+    {
+      "id": 64,
+      "spool_id": 7,
+      "printer_id": 1,
+      "print_name": "Llavero_BTS_Hooligan(2)",
+      "archive_id": 37,
+      "weight_used": 7.5,
+      "percent_used": 1,
+      "status": "completed",
+      "cost": 0.64,
+      "created_at": "2026-04-18 21:46:00"
+    },
+    {
+      "id": 65,
+      "spool_id": 1,
+      "printer_id": 1,
+      "print_name": "Llavero_BTS_Hooligan(2)",
+      "archive_id": 37,
+      "weight_used": 17.3,
+      "percent_used": 2,
+      "status": "completed",
+      "cost": 2.15,
+      "created_at": "2026-04-18 21:46:00"
+    },
+    {
+      "id": 66,
+      "spool_id": 2,
+      "printer_id": 1,
+      "print_name": "Llavero_BTS_Hooligan(2)",
+      "archive_id": 37,
+      "weight_used": 93.6,
+      "percent_used": 9,
+      "status": "completed",
+      "cost": 7.38,
+      "created_at": "2026-04-18 21:46:00"
     }
   ]
 }
