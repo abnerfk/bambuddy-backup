@@ -70,7 +70,7 @@
     "spoolman_report_partial_usage": "true",
     "dark_accent": "red",
     "dark_style": "classic",
-    "queue_shortest_first": "false",
+    "queue_shortest_first": "true",
     "local_backup_enabled": "false",
     "local_backup_path": ""
   }
