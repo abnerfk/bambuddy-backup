@@ -792,6 +792,30 @@
       "status": "completed",
       "cost": 7.38,
       "created_at": "2026-04-18 21:46:00"
+    },
+    {
+      "id": 67,
+      "spool_id": 1,
+      "printer_id": 1,
+      "print_name": "ArirangKeychain3MF_Filho_unico",
+      "archive_id": 38,
+      "weight_used": 0.7,
+      "percent_used": 0,
+      "status": "completed",
+      "cost": 0.08,
+      "created_at": "2026-04-18 23:47:36"
+    },
+    {
+      "id": 68,
+      "spool_id": 7,
+      "printer_id": 1,
+      "print_name": "ArirangKeychain3MF_Filho_unico",
+      "archive_id": 38,
+      "weight_used": 3.9,
+      "percent_used": 0,
+      "status": "completed",
+      "cost": 0.33,
+      "created_at": "2026-04-18 23:47:36"
     }
   ]
 }
