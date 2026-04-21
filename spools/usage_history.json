@@ -876,6 +876,30 @@
       "status": "completed",
       "cost": 0.67,
       "created_at": "2026-04-19 22:19:59"
+    },
+    {
+      "id": 74,
+      "spool_id": 2,
+      "printer_id": 1,
+      "print_name": "photocard_jackson_wang",
+      "archive_id": 46,
+      "weight_used": 23.9,
+      "percent_used": 2,
+      "status": "completed",
+      "cost": 1.89,
+      "created_at": "2026-04-21 22:59:47"
+    },
+    {
+      "id": 75,
+      "spool_id": 7,
+      "printer_id": 1,
+      "print_name": "photocard_jackson_wang",
+      "archive_id": 46,
+      "weight_used": 0.4,
+      "percent_used": 0,
+      "status": "completed",
+      "cost": 0.03,
+      "created_at": "2026-04-21 22:59:47"
     }
   ]
 }
