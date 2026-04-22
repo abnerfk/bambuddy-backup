@@ -900,6 +900,30 @@
       "status": "completed",
       "cost": 0.03,
       "created_at": "2026-04-21 22:59:47"
+    },
+    {
+      "id": 76,
+      "spool_id": 9,
+      "printer_id": 1,
+      "print_name": "Photocard_Holder_Jackson",
+      "archive_id": 47,
+      "weight_used": 47.1,
+      "percent_used": 5,
+      "status": "completed",
+      "cost": 4.0,
+      "created_at": "2026-04-22 07:08:59"
+    },
+    {
+      "id": 77,
+      "spool_id": 2,
+      "printer_id": 1,
+      "print_name": "Photocard_Holder_Jackson",
+      "archive_id": 47,
+      "weight_used": 0.7,
+      "percent_used": 0,
+      "status": "completed",
+      "cost": 0.06,
+      "created_at": "2026-04-22 07:08:59"
     }
   ]
 }
