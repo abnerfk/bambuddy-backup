@@ -948,6 +948,18 @@
       "status": "completed",
       "cost": 6.29,
       "created_at": "2026-04-23 18:19:35"
+    },
+    {
+      "id": 80,
+      "spool_id": 4,
+      "printer_id": 1,
+      "print_name": "Adjustable_Can_Dispenser_(Small_Bed)",
+      "archive_id": 53,
+      "weight_used": 74.2,
+      "percent_used": 7,
+      "status": "completed",
+      "cost": 6.29,
+      "created_at": "2026-04-23 23:58:46"
     }
   ]
 }
