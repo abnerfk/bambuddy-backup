@@ -984,6 +984,30 @@
       "status": "completed",
       "cost": 6.84,
       "created_at": "2026-04-24 06:37:39"
+    },
+    {
+      "id": 83,
+      "spool_id": 7,
+      "printer_id": 1,
+      "print_name": "ARIRANG_85X55_FULL",
+      "archive_id": 60,
+      "weight_used": 2.3,
+      "percent_used": 0,
+      "status": "completed",
+      "cost": 0.2,
+      "created_at": "2026-04-29 19:56:44"
+    },
+    {
+      "id": 84,
+      "spool_id": 1,
+      "printer_id": 1,
+      "print_name": "ARIRANG_85X55_FULL",
+      "archive_id": 60,
+      "weight_used": 41.9,
+      "percent_used": 4,
+      "status": "completed",
+      "cost": 5.22,
+      "created_at": "2026-04-29 19:56:44"
     }
   ]
 }
