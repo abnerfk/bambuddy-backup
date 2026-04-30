@@ -1080,6 +1080,30 @@
       "status": "completed",
       "cost": 0.43,
       "created_at": "2026-04-30 10:19:17"
+    },
+    {
+      "id": 91,
+      "spool_id": 20,
+      "printer_id": 1,
+      "print_name": "Photocard_Holder_-_BTS_-_Hooligan(4)_plate_2.gcode.3mf",
+      "archive_id": 65,
+      "weight_used": 44.7,
+      "percent_used": 4,
+      "status": "completed",
+      "cost": 3.53,
+      "created_at": "2026-04-30 14:48:11"
+    },
+    {
+      "id": 92,
+      "spool_id": 19,
+      "printer_id": 1,
+      "print_name": "Photocard_Holder_-_BTS_-_Hooligan(4)_plate_2.gcode.3mf",
+      "archive_id": 65,
+      "weight_used": 1.1,
+      "percent_used": 0,
+      "status": "completed",
+      "cost": 0.09,
+      "created_at": "2026-04-30 14:48:11"
     }
   ]
 }
