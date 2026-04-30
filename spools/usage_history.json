@@ -1044,6 +1044,42 @@
       "status": "completed",
       "cost": 3.3,
       "created_at": "2026-04-30 01:57:55"
+    },
+    {
+      "id": 88,
+      "spool_id": 20,
+      "printer_id": 1,
+      "print_name": "Photocard_Holder_BTS_Arirang_-_Hooligan",
+      "archive_id": 64,
+      "weight_used": 89.6,
+      "percent_used": 9,
+      "status": "completed",
+      "cost": 7.07,
+      "created_at": "2026-04-30 10:19:17"
+    },
+    {
+      "id": 89,
+      "spool_id": 9,
+      "printer_id": 1,
+      "print_name": "Photocard_Holder_BTS_Arirang_-_Hooligan",
+      "archive_id": 64,
+      "weight_used": 3.5,
+      "percent_used": 0,
+      "status": "completed",
+      "cost": 0.3,
+      "created_at": "2026-04-30 10:19:17"
+    },
+    {
+      "id": 90,
+      "spool_id": 19,
+      "printer_id": 1,
+      "print_name": "Photocard_Holder_BTS_Arirang_-_Hooligan",
+      "archive_id": 64,
+      "weight_used": 5.4,
+      "percent_used": 1,
+      "status": "completed",
+      "cost": 0.43,
+      "created_at": "2026-04-30 10:19:17"
     }
   ]
 }
