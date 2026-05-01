@@ -34,7 +34,7 @@
       "brand": "Voolt3D",
       "label_weight": 1000,
       "core_weight": 160,
-      "weight_used": 961.65,
+      "weight_used": 1000.0,
       "weight_locked": true,
       "slicer_filament": "GFSL99",
       "slicer_filament_name": "Generic PLA",
@@ -46,7 +46,7 @@
       "tray_uuid": null,
       "data_origin": null,
       "tag_type": null,
-      "archived_at": null,
+      "archived_at": "2026-05-01 20:17:34.128946",
       "created_at": "2026-04-03 04:23:34"
     },
     {
